@@ -1,7 +1,7 @@
 # Chrome Extension Idea: Smart Cold Outreach Assistant (SCOA)
 
 ## Authors  
-Ioannis (Yannis) Kalaitzidis (jokala)
+Ioannis (Yannis) Kalaitzidis (jokala), Jaime Walter
 
 ## Problem Statement  
 Job seekers, especially students and recent grads, spend countless hours manually reaching out to potential mentors, alumni, or recruiters through LinkedIn and email. This process typically involves finding emails using tools like Apollo, storing them in spreadsheets, and then manually customizing each message. It's repetitive, time-consuming, and often inefficient.  
@@ -28,7 +28,12 @@ Smart Cold Outreach Assistant (SCOA) is a Chrome extension that automates and pe
 2. As an international student, I want to connect with alumni from my home country so that I can get culturally relevant advice.  
 3. As a job applicant, I want to follow up with recruiters on LinkedIn with a click so that I don’t lose momentum in my job hunt.  
 4. As a user, I want to store my personal context (school, major, interests) so that the extension can personalize messages for me.  
-5. As a user, I want to choose from different message types (e.g., referral request, advice ask) so that the tone and content match my goals.  
+5. As a user, I want to choose from different message types (e.g., referral request, advice ask) so that the tone and content match my goals.
+6. 	As a job applicant, I want to be able to send messages without switching between spreadsheets, email finders, and LinkedIn so that my workflow is faster and less fragmented.
+7.	As a user, I want the extension to auto-fill contact names and company details so that my messages feel personal without manual editing.
+8.	As a student, I want to view and edit message drafts before sending so that I can ensure the tone feels authentic to me.
+9.	As a job seeker, I want to track who I’ve contacted and whether they’ve replied so that I can manage my outreach and follow-ups.
+10.	As a user, I want to save and reuse successful message templates so that I can streamline future outreach efforts.
 
 ## Notes  
 - The biggest challenge is complying with LinkedIn and Apollo’s Terms of Service. Depending on limitations, we may need to use browser automation rather than APIs.  
