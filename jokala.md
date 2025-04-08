@@ -1,7 +1,7 @@
 # Chrome Extension Idea: Smart Cold Outreach Assistant (SCOA)
 
 ## Authors  
-[Your Full Name] ([Your PennKey])
+Ioannis (Yannis) Kalaitzidis (jokala)
 
 ## Problem Statement  
 Job seekers, especially students and recent grads, spend countless hours manually reaching out to potential mentors, alumni, or recruiters through LinkedIn and email. This process typically involves finding emails using tools like Apollo, storing them in spreadsheets, and then manually customizing each message. It's repetitive, time-consuming, and often inefficient.  
