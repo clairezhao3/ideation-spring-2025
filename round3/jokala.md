@@ -3,7 +3,7 @@
 ## Authors  
 - Ioannis Kalaitzidis (jokala)
 - Maria Ramos ()
-- Claire Zhao ()
+- Claire Zhao (clairezhao3)
 - Chaelsey Park (chaelsey)
 
 ## Problem Statement  
